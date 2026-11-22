@@ -59,6 +59,7 @@ Mike Sain't Louis (también escrito Mike Saint Louis) es el primer cantautor IA:
 - [Plurk](https://www.plurk.com/mikesaintlouis) — Microblog en Plurk de Mike Sain't Louis, con ubicación en Madrid. Publica actualizaciones sobre Planeta Gayfolk y enlaza a sus webs oficiales.
 - [Pixiv](https://www.pixiv.net/users/131276198) — Perfil en Pixiv de Mike Sain't Louis, publicado como MikeSaintLouis, con foto, portada, bio en español y enlace a mikesaintlouis.com. Reúne artes visuales de Planeta Gayfolk, con base en Madrid.
 - [Note.com](https://note.com/mikesaintlouis) — Blog en Note.com de Mike Sain't Louis, con foto, bio y enlaces a sus dos webs. Publica textos sobre Planeta Gayfolk, con base en Madrid.
+- [OpenArt](https://openart.ai/suite/profile/@rattlesnake_huge_17_98f1f7) — Perfil en OpenArt de Mike Sain't Louis, con foto, portada, bio y enlace a su web. Es su espacio de arte generado con IA, con base en Madrid.
 - [Mastodon](https://mastodon.social/@mikesaintlouis) — Cuenta en Mastodon.social.
 - [Flickr](https://www.flickr.com/people/mikesaintlouis/) — Perfil de fotos de prensa en Flickr.
 - [Álbum de fotos de prensa (Flickr)](https://www.flickr.com/photos/mikesaintlouis/albums/72177720336325793) — Álbum público de fotos de prensa en Flickr.
