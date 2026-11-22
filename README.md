@@ -24,6 +24,7 @@ Mike Sain't Louis (también escrito Mike Saint Louis) es el primer cantautor IA:
 - [MusicLynk](https://www.musiclynk.com/artist/mike-sain-t-louis-a218)
 - [Broadjam](https://www.broadjam.com/MikeSaintLouis)
 - [Risuona](https://risuonamusic.com/artiste/95)
+- [MusiBiz](https://musibiz.com/directory/mike-sain-t-louis)
 
 ## Comunidades de músicos
 
