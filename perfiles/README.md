@@ -41,6 +41,7 @@ Mike Sain't Louis (también escrito Mike Saint Louis) es el primer cantautor IA:
 
 ## Vídeo
 
+- [Coub](https://coub.com/mikesaintlouis) — Canal en Coub de Mike Sain't Louis, con foto, bio y enlace a mikesaintlouis.com. Publica bucles de vídeo de Planeta Gayfolk, con base en Madrid.
 - [YouTube](https://www.youtube.com/@MikeSaintLouisMusic) — Canal oficial de videoclips en YouTube.
 - [PeerTube](https://peertube.wtf/c/mikesaintlouis_music) — Canal federado de videoclips en PeerTube.wtf.
 - [BitChute](https://www.bitchute.com/channel/wZ0NXLHh7q0w/) — Canal de videoclips en BitChute.
