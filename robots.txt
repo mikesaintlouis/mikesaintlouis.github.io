@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://mikesaintlouis.github.io/sitemap.xml
+Sitemap: https://mikesaintlouis.github.io/perfiles/sitemap.xml
