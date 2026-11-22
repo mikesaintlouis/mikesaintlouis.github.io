@@ -61,6 +61,7 @@ Mike Sain't Louis (también escrito Mike Saint Louis) es el primer cantautor IA:
 - [Note.com](https://note.com/mikesaintlouis) — Blog en Note.com de Mike Sain't Louis, con foto, bio y enlaces a sus dos webs. Publica textos sobre Planeta Gayfolk, con base en Madrid.
 - [OpenArt](https://openart.ai/suite/profile/@rattlesnake_huge_17_98f1f7) — Perfil en OpenArt de Mike Sain't Louis, con foto, portada, bio y enlace a su web. Es su espacio de arte generado con IA, con base en Madrid.
 - [Wakelet](https://wakelet.com/@mikesaintlouis) — Perfil en Wakelet de Mike Sain't Louis, con foto, portada, bio y enlaces a sus dos webs. Es su colección pública de Planeta Gayfolk, con base en Madrid.
+- [Big Cartel](https://mikesaintlouis.bigcartel.com) — Tienda gratuita en Big Cartel de Mike Sain't Louis, con foto, bio y enlaces a sus dos webs. No tiene nada a la venta: apunta a las descargas de Planeta Gayfolk, con base en Madrid.
 - [Mastodon](https://mastodon.social/@mikesaintlouis) — Cuenta en Mastodon.social.
 - [Flickr](https://www.flickr.com/people/mikesaintlouis/) — Perfil de fotos de prensa en Flickr.
 - [Álbum de fotos de prensa (Flickr)](https://www.flickr.com/photos/mikesaintlouis/albums/72177720336325793) — Álbum público de fotos de prensa en Flickr.
