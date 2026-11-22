@@ -54,6 +54,8 @@ Mike Sain't Louis (también escrito Mike Saint Louis) es el primer cantautor IA:
 
 ## Redes y blogs
 
+- [MySpace](https://myspace.com/mikesaintlouismusic)
+- [Plurk](https://www.plurk.com/mikesaintlouis)
 - [Mastodon](https://mastodon.social/@mikesaintlouis)
 - [Flickr](https://www.flickr.com/people/mikesaintlouis/)
 - [Álbum de fotos de prensa (Flickr)](https://www.flickr.com/photos/mikesaintlouis/albums/72177720336325793)
