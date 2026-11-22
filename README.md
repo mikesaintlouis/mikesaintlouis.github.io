@@ -21,6 +21,7 @@ Mike Sain't Louis (también escrito Mike Saint Louis) es el primer cantautor IA:
 - [Rankett](https://rankett.net/c/mikesaintlouis_music)
 - [Dizy](https://dizy.ai/artists/mike-sain-t-louis)
 - [Muzaiki](https://muzaiki.com/u/@mikesaintlouis/)
+- [MusicLynk](https://www.musiclynk.com/artist/mike-sain-t-louis-a218)
 
 ## Comunidades de músicos
 
