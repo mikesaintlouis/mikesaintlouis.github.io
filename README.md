@@ -46,6 +46,7 @@ Mike Sain't Louis (también escrito Mike Saint Louis) es el primer cantautor IA:
 - [Bandsintown](https://www.bandsintown.com/a/15672214)
 - [SecondHandSongs](https://secondhandsongs.com/user/151765)
 - [LyricsTranslate](https://lyricstranslate.com/en/translator/mikesaintlouis)
+- [WhoSampled](https://www.whosampled.com/user/Mike-Saint-Louis/)
 
 ## Vídeo
 
