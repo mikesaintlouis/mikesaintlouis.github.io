@@ -21,6 +21,7 @@ Mike Sain't Louis (también escrito Mike Saint Louis) es el primer cantautor IA:
 - [Rankett](https://rankett.net/c/mikesaintlouis_music) — Canal de artista en Rankett.
 - [Dizy](https://dizy.ai/artists/mike-sain-t-louis) — Ficha de artista y temas publicados en Dizy.
 - [Muzaiki](https://muzaiki.com/u/@mikesaintlouis/) — Perfil y canciones publicadas en Muzaiki.
+- [MusicLynk](https://www.musiclynk.com/artist/mike-sain-t-louis-a218) — Página de artista IA en MusicLynk de Mike Sain't Louis, con foto, portada, bio completa y enlaces a sus dos webs. Reúne su ficha de Planeta Gayfolk, con base en Madrid.
 
 ## Comunidades de músicos
 
