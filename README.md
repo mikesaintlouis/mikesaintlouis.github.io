@@ -5,6 +5,7 @@ Mike Sain't Louis (también escrito Mike Saint Louis) es el primer cantautor IA:
 - Web oficial: [mikesaintlouis.com](https://mikesaintlouis.com)
 - Planeta Gayfolk (escucha y descarga gratis): [gayfolkplanet.com](https://gayfolkplanet.com)
 - Lista completa en su web: [mikesaintlouis.com/perfiles](https://mikesaintlouis.com/perfiles)
+- Directorio detallado: [mikesaintlouis.github.io/perfiles](https://mikesaintlouis.github.io/perfiles/)
 
 ## Plataformas de música
 
@@ -18,6 +19,8 @@ Mike Sain't Louis (también escrito Mike Saint Louis) es el primer cantautor IA:
 - [Podomatic](https://www.podomatic.com/podcasts/prensa2podcast)
 - [Fiya](https://fiyaplatform.com/fiyacore/artist.php?artist=498)
 - [Rankett](https://rankett.net/c/mikesaintlouis_music)
+- [Dizy](https://dizy.ai/artists/mike-sain-t-louis)
+- [Muzaiki](https://muzaiki.com/u/@mikesaintlouis/)
 
 ## Comunidades de músicos
 
@@ -25,7 +28,7 @@ Mike Sain't Louis (también escrito Mike Saint Louis) es el primer cantautor IA:
 - [BandMix](https://www.bandmix.es/mikesaintlouis/)
 - [Rock and Change](https://rockandchange.es/banda/mike-saint-louis,35082/)
 - [BenoiZzy](https://www.benoizzy.com/es/profile/mikesaintlouis)
-- [Queer Art Hub](https://queerarthub.com/artist/mike-saint-louis/)
+- [Queer Art Hub](https://queerarthub.com/directory/mike-saint-louis/)
 
 ## Bases de datos musicales
 
@@ -46,12 +49,16 @@ Mike Sain't Louis (también escrito Mike Saint Louis) es el primer cantautor IA:
 
 - [Spotify](https://open.spotify.com/artist/7HISGg4UlrZeO5I5OlQQSk)
 - [Apple Music](https://music.apple.com/es/artist/mike-saint-louis/1745547603)
+- [ListenBrainz: lo esencial](https://listenbrainz.org/playlist/5f3bfd63-6d08-42b0-9b2f-de6b4e1ddb4a/)
+- [ListenBrainz: videoclips oficiales](https://listenbrainz.org/playlist/3b0e8b51-a88c-4af1-b46a-15f452d14403/)
 
 ## Redes y blogs
 
 - [Mastodon](https://mastodon.social/@mikesaintlouis)
 - [Flickr](https://www.flickr.com/people/mikesaintlouis/)
+- [Álbum de fotos de prensa (Flickr)](https://www.flickr.com/photos/mikesaintlouis/albums/72177720336325793)
 - [Flipboard](https://flipboard.com/@MikeSaintLouis)
+- [Revista Planeta Gayfolk (Flipboard)](https://flipboard.com/@MikeSaintLouis/planeta-gayfolk-0q5d8glgz)
 - [DeviantArt](https://www.deviantart.com/mikesaintlouis)
 - [Hashnode](https://hashnode.com/@mikesaintlouis)
 - [Blog en Hashnode](https://mikesaintlouis.hashnode.dev)
@@ -74,5 +81,6 @@ Mike Sain't Louis (también escrito Mike Saint Louis) es el primer cantautor IA:
 - [Bio Sites](https://bio.site/mikesaintlouis)
 - [AllMyLinks](https://allmylinks.com/mikesaintlouis)
 - [Carrd](https://mikesaintlouis.carrd.co/)
+- [Directorio detallado de perfiles](https://mikesaintlouis.github.io/perfiles/)
 
 Revisado el 22 de noviembre de 2026.
