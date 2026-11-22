@@ -17,6 +17,7 @@ Mike Sain't Louis (también escrito Mike Saint Louis) es el primer cantautor IA:
 - [Zik.band](https://zik.band/mikesaintlouis/)
 - [Podomatic](https://www.podomatic.com/podcasts/prensa2podcast)
 - [Fiya](https://fiyaplatform.com/fiyacore/artist.php?artist=498)
+- [Rankett](https://rankett.net/c/mikesaintlouis_music)
 
 ## Comunidades de músicos
 
@@ -58,9 +59,10 @@ Mike Sain't Louis (también escrito Mike Saint Louis) es el primer cantautor IA:
 - [DEV](https://dev.to/mikesaintlouis)
 - [Vocal](https://vocal.media/authors/mike-saint-louis)
 - [Medium](https://medium.com/@mikesaintlouis)
-- [Bear Blog](https://planetagayfolk.bearblog.dev/)
 - [Hugging Face](https://huggingface.co/mikesaintlouis)
 - [Disqus](https://disqus.com/by/mikesaintlouis/)
+- [Portfoliobox](https://mikesaintlouis.portfoliobox.net/)
+- [GitHub](https://github.com/mikesaintlouis)
 - [Notion](https://pale-pint-965.notion.site/Planeta-Gayfolk-Mike-Sain-t-Louis-401e917f32d3811a9756d860db7595c6)
 
 ## Páginas de enlaces
