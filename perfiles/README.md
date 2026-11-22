@@ -23,7 +23,8 @@ Mike Sain't Louis (también escrito Mike Saint Louis) es el primer cantautor IA:
 - [Muzaiki](https://muzaiki.com/u/@mikesaintlouis/) — Perfil y canciones publicadas en Muzaiki.
 - [MusicLynk](https://www.musiclynk.com/artist/mike-sain-t-louis-a218) — Página de artista IA en MusicLynk de Mike Sain't Louis, con foto, portada, bio completa y enlaces a sus dos webs. Reúne su ficha de Planeta Gayfolk, con base en Madrid.
 - [Broadjam](https://www.broadjam.com/MikeSaintLouis) — Página de artista en Broadjam de Mike Sain't Louis, con foto, portada, bio y enlace a mikesaintlouis.com. Está en el plan Mini gratuito, con base en Madrid.
-- [Risuona](https://risuonamusic.com/artiste/95) — Página de artista en Risuona de Mike Sain't Louis, con foto, portada, bio y enlaces a sus dos webs. Es su ficha gratuita de Planeta Gayfolk, con base en Madrid.
+- [Risuona](https://risuonamusic.com/artiste/95) — Página de artista en Risuona de Mike Sain't Louis, con foto, portada, bio y enlaces a sus dos webs. Es su ficha gratuita de Planeta Gayfolk, con base en Madrid. Incluye el tema [El impostor](https://risuonamusic.com/morceau/330).
+- [MusiBiz](https://musibiz.com/directory/mike-sain-t-louis) — Ficha de directorio en MusiBiz de Mike Sain't Louis, letrista, compositor y productor de folk español, con foto, cabecera, bio y enlace a su web. Es su perfil gratuito de Planeta Gayfolk, con base en Madrid.
 
 ## Comunidades de músicos
 
