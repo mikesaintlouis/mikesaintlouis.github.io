@@ -58,7 +58,6 @@ Mike Sain't Louis (también escrito Mike Saint Louis) es el primer cantautor IA:
 ## Escuchar
 
 - [Spotify](https://open.spotify.com/artist/7HISGg4UlrZeO5I5OlQQSk)
-- [Apple Music](https://music.apple.com/es/artist/mike-saint-louis/1745547603)
 - [ListenBrainz: lo esencial](https://listenbrainz.org/playlist/5f3bfd63-6d08-42b0-9b2f-de6b4e1ddb4a/)
 - [ListenBrainz: videoclips oficiales](https://listenbrainz.org/playlist/3b0e8b51-a88c-4af1-b46a-15f452d14403/)
 
