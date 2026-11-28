@@ -8,6 +8,40 @@ Mike Sain't Louis (también escrito Mike Saint Louis) es el primer cantautor IA:
 - Directorio detallado: [mikesaintlouis.github.io/perfiles](https://mikesaintlouis.github.io/perfiles/)
 - Videoclips, disco a disco: [mikesaintlouis.github.io/videoclips](https://mikesaintlouis.github.io/videoclips/)
 
+## Canciones y páginas destacadas
+
+Selección de páginas de Mike Sain't Louis, the first AI songwriter, en sus dos webs oficiales.
+
+### Planeta Gayfolk ([gayfolkplanet.com](https://gayfolkplanet.com))
+
+- [quién es Mike Sain't Louis, creador de Planeta Gayfolk](https://gayfolkplanet.com/quien-es-mike-saint-louis)
+- [letras completas de las canciones de Planeta Gayfolk](https://gayfolkplanet.com/letras)
+- [videoclips oficiales de Planeta Gayfolk](https://gayfolkplanet.com/videos)
+- [El inculto artista de culto, el cuarto álbum](https://gayfolkplanet.com/gayfolk/el-inculto-artista-de-culto)
+- [Ojalá se pudiera viajar a GAYFOLK, álbum de la trilogía](https://gayfolkplanet.com/gayfolk/ojala-se-pudiera-viajar-a-gayfolk)
+- [GAYFOLK en los medios: entrevistas y reseñas](https://gayfolkplanet.com/gayfolk-en-los-medios)
+- [letra de «Karma»](https://gayfolkplanet.com/letras/karma)
+- [letra de «Barcelona»](https://gayfolkplanet.com/letras/barcelona)
+- [letra de «Ataúd de Neón»](https://gayfolkplanet.com/letras/ataud-de-neon)
+- [letra de «Forocoches»](https://gayfolkplanet.com/letras/forocoches)
+- [letra de «¡Que polvo tiene Paco León!»](https://gayfolkplanet.com/letras/que-polvo-tiene-paco-leon)
+- [letra de «Ya sale el asesino»](https://gayfolkplanet.com/letras/ya-sale-el-asesino)
+
+### Web oficial ([mikesaintlouis.com](https://mikesaintlouis.com))
+
+- [biografía de Mike Sain't Louis, el primer cantautor IA](https://mikesaintlouis.com/sobre)
+- [descargar gratis los discos GAYFOLK](https://mikesaintlouis.com/descargas)
+- [kit de prensa, fotos y entrevistas](https://mikesaintlouis.com/prensa)
+- [el catálogo de canciones de Planeta Gayfolk](https://mikesaintlouis.com/planeta-gayfolk)
+- [todos los perfiles oficiales de Mike Sain't Louis](https://mikesaintlouis.com/perfiles)
+- [cuarto álbum: El inculto artista de culto](https://mikesaintlouis.com/el-inculto-artista-de-culto)
+- [«Gatekeeping», letra y vídeo](https://mikesaintlouis.com/planeta-gayfolk/gatekeeping-video)
+- [«Autopsia del insomnio», letra y vídeo](https://mikesaintlouis.com/planeta-gayfolk/autopsia-del-insomnio)
+- [«Mercado quemado», letra y vídeo](https://mikesaintlouis.com/planeta-gayfolk/mercado-quemado)
+- [«En todas las familias», letra y vídeo](https://mikesaintlouis.com/planeta-gayfolk/en-todas-las-familias)
+- [«3 años de garantía», letra y vídeo](https://mikesaintlouis.com/planeta-gayfolk/3-anos-de-garantia)
+- [«El descarte del narcisista», letra y vídeo](https://mikesaintlouis.com/planeta-gayfolk/el-descarte-del-narcisista)
+
 ## Plataformas de música
 
 - [Audius](https://audius.co/mikesaintlouis)
